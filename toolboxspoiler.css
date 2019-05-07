@@ -1,0 +1,34 @@
+
+.spoiler {
+  border: 3px solid #2727FC;
+  padding: 2px;
+  background: #27EEFC;
+left: -10px;
+}
+.spoiler-btn:hover {
+  cursor: pointer;
+  color: #2727FC;
+left: -10px;
+}
+
+
+
+.spoiler-btn-bottom {
+  width: 100%;
+}
+
+.spoiler-body {
+  display: none;
+}
+
+#kotaktool {
+  max-height: 640px;
+  width: 45%;
+  max-width: 570px;
+  margin: 0 auto;
+Position: fixed;
+Bottom: 0px;
+left: 320px;
+Z-index: 1111;
+}
+
