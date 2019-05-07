@@ -1,0 +1,7 @@
+
+/* Style the buttons */
+
+.active, .w3-btn w3-black:hover {
+  background-color: #ffffff;
+  color: black;
+}
