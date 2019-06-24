@@ -3,8 +3,8 @@
 #atashalaman {
   display: none;
   
-  bottom: 10px;
-  Left: 10px;
+  bottom: 25px;
+  Right: 10px;
   z-index: 99;
   Position: fixed;
   border: none;
