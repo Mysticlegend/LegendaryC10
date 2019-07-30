@@ -99,17 +99,6 @@
 
 .nocopy{-webkit-touch-callout:none;-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}
 
-<!-- 3Loader -->
-
-.putarloader {
-    position: fixed;
-    left: 0px;
-    top: 0px;
-    width: 100%;
-    height: 100%;
-    z-index: 9999;
-    background: url('https://4.bp.blogspot.com/-c4GvJiJCBrM/W9GGf494ZeI/AAAAAAAAA3w/Nn-o9qCZOxcINAEfcEc8Tf-Eszs3kYvEACLcBGAs/s1600/138.gif') 50% 50% no-repeat rgb(249,249,249);
-}
 
 <!-- 4OfflineNetwork -->
 
@@ -461,11 +450,7 @@ alaybawah a {
   padding: .4em 1em;
 }
 
-<!-- 8Toolbox -->
-.spoiler{border:3px solid #2727fc;padding:2px;background:#27eefc;left:-10px}.spoiler-btn:hover{cursor:pointer;color:#2727fc;left:-10px}.spoiler-btn-bottom{width:100%}.spoiler-body{display:none}#kotaktool{max-height:640px;width:45%;max-width:380px;margin:0 auto;position:fixed;bottom:0;left:10px;z-index:1111}
 
 <!-- 9ButtonCircle2 -->
 .btn-circle.btn-aal{width:70px;height:70px;padding:10px 16px;border-radius:35px;font-size:24px;line-height:1.33;position:fixed;bottom:0;right:20px;z-index:1110}.btn-circle.btn-jjj{width:50px;height:50px;padding:8px 12px;border-radius:30px;text-align:center;font-size:16px;line-height:1.39532;bottom:20px;right:20px;z-index:999}#container{width:100%;text-align:center}#kirikotak{float:left}#midleft{float:left}#modaleft{float:left}#modaltengah{display:inline-block;margin:0 auto}#kanankotak{float:right}
 
-<!-- 10ButtonUpRefresh -->
-#atashalaman{display:none;bottom:60px;right:10px;z-index:99;position:fixed;border:none;outline:none;background-color:red;color:#fff;cursor:pointer;padding:15px;border-radius:4px}#atashalaman:hover{background-color:#555}#bersihalaman{bottom:0;right:10px;z-index:99;position:fixed;border:none;outline:none;background-color:green;color:#fff;cursor:pointer;padding:15px;border-radius:4px}#bersihalaman:hover{background-color:#555}
